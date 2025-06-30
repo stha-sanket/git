@@ -18,5 +18,5 @@ git status
 - shows us branch, shows us our commit, shows staged area, shows uncommit file
 
 git add file name
-- add file to commit (staging area)
+- add file to commit
 
