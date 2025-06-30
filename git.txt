@@ -1,0 +1,16 @@
+git init
+- starts git in that folder(repo/repository)
+- .git file is created
+
+git config --global user.name "username"
+- configure that the user name to all git system
+
+git config --local user.name "username"
+- configure that the user name to all git system
+
+git config --global user.email "email"
+- configure that the email to all git system
+
+git config --global init.defaultBranch main
+- makes so that everytime we create .git file the branch name will be "main"
+
