@@ -20,3 +20,5 @@ git status
 git add file name
 - add file to commit
 
+git branch
+- shows us branch
