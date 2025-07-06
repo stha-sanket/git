@@ -1,0 +1,18 @@
+- clone this repo using " git clone https://github.com/stha-sanket/git"
+- paste all the code in the word file along with screenshot to win the prize
+
+# assignment
+- initialize a git in folder and set the local name to datacamp
+- add a txt file named your experience about github (1 paragraph long)
+- see git status
+- commit it saying "first try"
+- write the difference between staging area and commit in the same file
+- see git status
+- commit it
+- create a new repository in github named datacamp-assignment-(enter-your-name-here) (no need to put screenshot or code)
+- push it to the repo
+- add your assignment to the repo too and share the repo link to "datafellowship@sunway.edu.np"
+
+
+- prizes: exclusive laptop stickers to top 3 
+- github cheat sheet for everyone
