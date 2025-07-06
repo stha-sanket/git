@@ -25,3 +25,15 @@ git branch
 
 git branch [branch-name]
 - create a new branch at the current commit
+
+git checkout
+- switch to another branch and check it out into your working directory
+
+git remote add [alias] [url]
+- add a git URL as an alias(we generally use origin but we showed you using abcd)
+
+git push [alias] [branch]
+- Transmit local branch commits to the remote repository branch
+
+git pull
+- fetch and merge any commits from the tracking remote branch
