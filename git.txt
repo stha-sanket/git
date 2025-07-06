@@ -22,3 +22,6 @@ git add file name
 
 git branch
 - shows us branch
+
+git branch [branch-name]
+- create a new branch at the current commit
